@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://www.wangfanwifi.com/wangfanv20/WangFan.ipa</string>//https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#/all?vmode=list&path=%2F%E6%B8%B8%E6%88%8F饥荒：口袋版-1.34(PP正版).ipa
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://www.wangfanwifi.com/wangfanv20/image57.png</string>//https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E9%A5%A5%E8%8D%92&step_word=&hs=0&pn=5&spn=0&di=124960&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3190551531%2C1355188418&os=1184267831%2C2785529959&simid=3332951458%2C337156911&adpicid=0&lpn=0&ln=956&fr=&fmq=1568871876762_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg.1688wan.com%2Fallimgs%2Fimg_iapp%2F201507%2F_1436341391908.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B8mbbowg_z%26e3Bv54AzdH3F2w4jAzdH3Ftgu5AzdH3F89nmn98c9c_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://www.wangfanwifi.com/wangfanv20/image512.jpg</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.ihangmei.wangfanconception</string>
+                <key>bundle-version</key>
+                <string>1.8.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>WangFan</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
